@@ -1,0 +1,41 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,600,300);
+
+body{font-family: "Open Sans";
+background-image: url(/weather/img/rain-bg.jpg);
+color: #fff!important;
+}
+
+small {color: #fff!important;}
+
+img.logo {width: 55%; padding: 20px; }
+.navholder {background: #191919; height: 110px; border-bottom: 3px solid #fff!important; border:none;}
+.navholder .col-sm-10 {height: 110px;
+    margin-bottom: 20px;}
+.navbar {background: #191919!important; border: none; margin-bottom: 100px;}
+/*.navbar-collapse {margin-top: 57px; border-top: 3px solid #fff;}*/
+
+.search {float:right;  padding-top: 5px;}
+.search input{height: 30%; border-radius: 0;}
+.search button{height: 30%; border-radius: 0;}
+
+.navbar a {color:#fff!important; font-size: 12px; font-weight: bold;}
+.navbar a:hover {color:#36b0de!important;}
+
+
+.forecast-box{background: rgb(0,0,0); 
+background: rgba(0,0,0, .8);
+padding: 20px;
+color: #fff;
+}
+
+
+.right {text-align: right;}
+.right h5 { padding-top: 5px; text-align: center;}
+.copyright img{width: 120px;}
+.temp {font-size: 75px; margin:0!important; text-align: center;	}
+.conditions {padding-top: 10px; text-align: center;}
+.forecast-head {margin:0!important; font-weight: bold; text-align: center;}
+.date {margin-left:15px; margin-bottom: 30px; text-align: center;}
+.icon {font-size: 110px; text-align: center; color: #f8e72c;}
+.fa-map-pin {color:#bc1515;	}
+

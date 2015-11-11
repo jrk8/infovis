@@ -1,0 +1,83 @@
+[05/Nov/2015:00:53:37] (Yahoo) API Fail for Town: Abenbury\n
+[05/Nov/2015:00:53:53] (Yahoo) API Fail for Town: ALBecq\n
+[05/Nov/2015:00:54:49] (Yahoo) API Fail for Town: Ballatar\n
+[05/Nov/2015:00:56:02] (Yahoo) API Fail for Town: Blaenhonddan\n
+[05/Nov/2015:00:56:46] (Yahoo) API Fail for Town: Bro Machno\n
+[05/Nov/2015:00:56:58] (Yahoo) API Fail for Town: Broughton West\n
+[05/Nov/2015:00:57:07] (Yahoo) API Fail for Town: Buan\n
+[05/Nov/2015:01:00:30] (Yahoo) API Fail for Town: Duhonw\n
+[05/Nov/2015:01:02:15] (Yahoo) API Fail for Town: Geneur Glyn\n
+[05/Nov/2015:01:02:32] (Yahoo) API Fail for Town: Grangepans\n
+[05/Nov/2015:01:02:59] (Yahoo) API Fail for Town: Halnaby Ave\n
+[05/Nov/2015:01:03:17] (Yahoo) API Fail for Town: Hawkes End\n
+[05/Nov/2015:01:03:47] (Yahoo) API Fail for Town: Hollinswood\n
+[05/Nov/2015:01:03:54] (Yahoo) API Fail for Town: Hope St\n
+[05/Nov/2015:01:04:08] (Yahoo) API Fail for Town: Hunshelf\n
+[05/Nov/2015:01:04:13] (Yahoo) API Fail for Town: Hyton\n
+[05/Nov/2015:01:04:15] (Yahoo) API Fail for Town: Ightenhill\n
+[05/Nov/2015:01:05:17] (Yahoo) API Fail for Town: L'Islet\n
+[05/Nov/2015:01:05:19] (Yahoo) API Fail for Town: Lakes\n
+[05/Nov/2015:01:06:01] (Yahoo) API Fail for Town: Llaneugrad\n
+[05/Nov/2015:01:06:06] (Yahoo) API Fail for Town: Llangamarch\n
+[05/Nov/2015:01:06:11] (Yahoo) API Fail for Town: Llanidan\n
+[05/Nov/2015:01:06:53] (Yahoo) API Fail for Town: Manningford\n
+[05/Nov/2015:01:07:19] (Yahoo) API Fail for Town: Mill Town\n
+[05/Nov/2015:01:07:33] (Yahoo) API Fail for Town: Mouilpied\n
+[05/Nov/2015:01:08:09] (Yahoo) API Fail for Town: North Elmsall\n
+[05/Nov/2015:01:08:20] (Yahoo) API Fail for Town: nr Mouilpied\n
+[05/Nov/2015:01:08:42] (Yahoo) API Fail for Town: Pamber\n
+[05/Nov/2015:01:09:33] (Yahoo) API Fail for Town: Ramsay\n
+[05/Nov/2015:01:09:35] (Yahoo) API Fail for Town: Ranfurly\n
+[05/Nov/2015:01:11:38] (Yahoo) API Fail for Town: St Cuthbert Out\n
+[05/Nov/2015:01:11:47] (Yahoo) API Fail for Town: St+F2813 Ouen\n
+[05/Nov/2015:01:12:50] (Yahoo) API Fail for Town: The Gorge\n
+[05/Nov/2015:01:12:51] (Yahoo) API Fail for Town: The Stukeleys\n
+[05/Nov/2015:01:13:12] (Yahoo) API Fail for Town: Town\n
+[05/Nov/2015:01:13:17] (Yahoo) API Fail for Town: Tregoney\n
+[05/Nov/2015:01:13:20] (Yahoo) API Fail for Town: Trindon\n
+[05/Nov/2015:01:15:09] (Yahoo) Page generated in 1446686109.4464 seconds.
+[05/Nov/2015:01:15:09] (Yahoo) Script Run on: 2015-11-05 01:15:09
+[05/Nov/2015:01:24:51] (Yahoo) Script Started at: 2015-11-05 01:24:51
+[05/Nov/2015:01:24:54] (Yahoo) API Fail for Town: Abenbury
+[05/Nov/2015:01:25:12] (Yahoo) API Fail for Town: ALBecq
+[05/Nov/2015:01:25:59] (Yahoo) API Fail for Town: Ballatar
+[05/Nov/2015:01:26:55] (Yahoo) API Fail for Town: Blaenhonddan
+[08/Nov/2015:20:52:41] (Yahoo) Script Started at: 2015-11-08 20:52:41
+[08/Nov/2015:20:52:44] (Yahoo) API Fail for Town: Abenbury
+[08/Nov/2015:20:52:58] (Yahoo) API Fail for Town: ALBecq
+[08/Nov/2015:20:53:44] (Yahoo) API Fail for Town: Ballatar
+[08/Nov/2015:20:54:43] (Yahoo) API Fail for Town: Blaenhonddan
+[08/Nov/2015:20:55:20] (Yahoo) API Fail for Town: Bro Machno
+[08/Nov/2015:20:55:30] (Yahoo) API Fail for Town: Broughton West
+[08/Nov/2015:20:55:36] (Yahoo) API Fail for Town: Buan
+[08/Nov/2015:20:58:20] (Yahoo) API Fail for Town: Duhonw
+[08/Nov/2015:20:59:44] (Yahoo) API Fail for Town: Geneur Glyn
+[08/Nov/2015:21:00:00] (Yahoo) API Fail for Town: Grangepans
+[08/Nov/2015:21:00:28] (Yahoo) API Fail for Town: Halnaby Ave
+[08/Nov/2015:21:00:46] (Yahoo) API Fail for Town: Hawkes End
+[08/Nov/2015:21:01:17] (Yahoo) API Fail for Town: Hollinswood
+[08/Nov/2015:21:01:26] (Yahoo) API Fail for Town: Hope St
+[08/Nov/2015:21:01:41] (Yahoo) API Fail for Town: Hunshelf
+[08/Nov/2015:21:01:46] (Yahoo) API Fail for Town: Hyton
+[08/Nov/2015:21:01:49] (Yahoo) API Fail for Town: Ightenhill
+[08/Nov/2015:21:02:55] (Yahoo) API Fail for Town: L'Islet
+[08/Nov/2015:21:02:56] (Yahoo) API Fail for Town: Lakes
+[08/Nov/2015:21:03:37] (Yahoo) API Fail for Town: Llaneugrad
+[08/Nov/2015:21:03:42] (Yahoo) API Fail for Town: Llangamarch
+[08/Nov/2015:21:03:47] (Yahoo) API Fail for Town: Llanidan
+[08/Nov/2015:21:04:31] (Yahoo) API Fail for Town: Manningford
+[08/Nov/2015:21:04:56] (Yahoo) API Fail for Town: Mill Town
+[08/Nov/2015:21:05:11] (Yahoo) API Fail for Town: Mouilpied
+[08/Nov/2015:21:05:47] (Yahoo) API Fail for Town: North Elmsall
+[08/Nov/2015:21:05:58] (Yahoo) API Fail for Town: nr Mouilpied
+[08/Nov/2015:21:06:20] (Yahoo) API Fail for Town: Pamber
+[08/Nov/2015:21:07:10] (Yahoo) API Fail for Town: Ramsay
+[08/Nov/2015:21:07:12] (Yahoo) API Fail for Town: Ranfurly
+[08/Nov/2015:21:08:59] (Yahoo) API Fail for Town: St Cuthbert Out
+[08/Nov/2015:21:09:10] (Yahoo) API Fail for Town: St+F2813 Ouen
+[08/Nov/2015:21:10:18] (Yahoo) API Fail for Town: The Gorge
+[08/Nov/2015:21:10:20] (Yahoo) API Fail for Town: The Stukeleys
+[08/Nov/2015:21:10:41] (Yahoo) API Fail for Town: Town
+[08/Nov/2015:21:10:46] (Yahoo) API Fail for Town: Tregoney
+[08/Nov/2015:21:10:49] (Yahoo) API Fail for Town: Trindon
+[08/Nov/2015:21:12:51] (Yahoo) Script Run on: 2015-11-08 20:52:41
